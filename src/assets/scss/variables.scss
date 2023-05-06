@@ -1,0 +1,32 @@
+$fuxia: #CA38ED;
+$pink: #E487FB;
+$purple: #3E1149;
+$darkGray: #574E5A;
+$gray: #BCB1BF;
+$black: #1E1E1E;
+$red: #AD3C40;
+$input: #787878;
+
+$poppins: 'Poppins', sans-serif;
+$roboto: 'Roboto', sans-serif;
+
+$font-family-sans-serif: $poppins;
+
+$theme-colors: (
+  "fuxia": $fuxia,
+  "pink": $pink,
+  "purple": $purple,
+  "darkGray": $darkGray,
+  "gray": $gray,
+  "black": $black,
+  "input": $input
+);
+
+$display-font-sizes: (
+  1: 5rem,
+  2: 4.5rem,
+  3: 4rem,
+  4: 3.5rem,
+  5: 3rem,
+  6: 2.5rem
+);
